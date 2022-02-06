@@ -1,1 +1,1 @@
-say hana pis new
+say hana pis
